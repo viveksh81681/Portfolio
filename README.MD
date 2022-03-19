@@ -1,4 +1,4 @@
-<h1>Hi, i am Shivam Sharma</h1>
+<h1>Hi, i am Vivek Sharma</h1>
 
 Curious and efficient web developer, proficient in MERN stack. Can work under pressure and take on challenging projects as it helps in learning new skills. 
 I am a Passoinate Cricketer and having interest in Helping Animals.
@@ -13,4 +13,4 @@ I am a Passoinate Cricketer and having interest in Helping Animals.
 </h1>
 <h2><a href ="https://shivam-sharma-portfolio.netlify.app/">Portfolio</a></h2>
 <h1>Screenshot</h1>
-<img src="compontents/img/Portfol1.PNG" alt="">
+<img src="compontents/img/portfolio.PNG" alt.PNG
